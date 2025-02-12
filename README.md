@@ -2,10 +2,10 @@
 ### A Passionate Data Scientist & AI Enthusiast  
 
 🌱 Currently learning **Generative AI & Computer Vision**  
-📫 Reach me at **your-email@gmail.com**  
+📫 Reach me at **pratikpawar72061@gmail.com**  
 
 ### Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pratik-pawar-96700b248/]
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](your-github-url)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-url)  
 
