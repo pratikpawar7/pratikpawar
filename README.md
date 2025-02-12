@@ -15,8 +15,4 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-⭐ **GitHub Stats & Badges**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikpawar7&show_icons=true&theme=dark)  
-### GitHub Achievements  
-![Trophies](https://github-profile-trophy.vercel.app/?username=pratikpawar7&theme=onedark)
 
